@@ -20,5 +20,5 @@ I haven't run terraform apply so a few things might needs adjustment.<br>
 For the plan, 25 resources should be listed for creation.
 
 ## Terraform version
-I tested these files using latest terraform version, which is currently 1.9.2.
+I tested these files using latest terraform version, which is currently 1.9.2.<br>
 I strongly suggest using tfenv to manage terraform versions and set it to proper version.
