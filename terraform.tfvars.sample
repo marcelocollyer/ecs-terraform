@@ -1,0 +1,9 @@
+certificate_arn = "arn:aws:acm:us-east-1:666248181800:certificate/g57725f2-ed31-48a6-b21f-9ffe90bed984"
+cluster_name = "non-prod-cluster"
+container_image = "go-simple-service"
+container_port = 8080
+log_group_name = "ecs/gss-service"
+repository_name = "go-simple-service"
+service_name = "gss-service"
+task_definition_family = "gss-task_definition_family"
+region = "us-east-1"
